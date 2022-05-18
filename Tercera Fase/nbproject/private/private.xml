@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/index2.html</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Logica/LNDetallefact.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/AccesoDatos/ADClientes.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Logica/LNEntradaProductos.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/EliminarDetalle2.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Entidades/Trabajadores.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/AccesoDatos/ClaseConexion.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/FrmFiltrarVentas.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Entidades/DetalleFactura.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Logica/LNFactura.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Entidades/Productos.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/CrearModificarTrabajador.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/Frm_Trabajadores.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Logica/LNProductos.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/EliminarCliente.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/lib/css/newcss.css</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/CancelarFactura2.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Entidades/Cliente.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/FiltrarVentas.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/Frm_Clientes.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/EliminarDetalle.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/CrearModificar.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/FrmFiltrarVentasTrab.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Entidades/EntradaProductos.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/AccesoDatos/ADInventario.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/AccesoDatos/ADProductos.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/CancelarFactura.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/FrmListarClientes.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Entidades/Factura.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/FrmListarTrabajadores.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Entidades/PagosTrabajador.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/index.html</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/Frm_ListarFacturas.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/AccesoDatos/ADFactura.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/EliminarTrabajador.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Logica/LNCliente.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Entidades/Personas.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/web/Frm_facturar.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/AccesoDatos/ADUsuarios.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/Facturar.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Servlets/FiltrarVentasTrab.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/AccesoDatos/ADTrabajadores.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/AccesoDatos/ADDetalleFact.java</file>
+            <file>file:/C:/Users/Admin/Desktop/Java/Tercera%20Fase/src/java/Entidades/Usuarios.java</file>
+        </group>
+    </open-files>
+</project-private>
